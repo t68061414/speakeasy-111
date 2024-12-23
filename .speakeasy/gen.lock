@@ -5,11 +5,11 @@ management:
   docVersion: 1.0.0
   speakeasyVersion: 1.459.3
   generationVersion: 2.483.6
-  releaseVersion: 0.0.2
-  configChecksum: 89b40d5dcafc87e8f16f4b3a04903527
+  releaseVersion: 0.0.3
+  configChecksum: 7252b6fa8d730b318abb1b9885501b89
   repoURL: https://github.com/t68061414/speakeasy-111.git
   installationURL: https://github.com/t68061414/speakeasy-111
-
+  published: true
 features:
   typescript:
     additionalDependencies: 0.1.0
