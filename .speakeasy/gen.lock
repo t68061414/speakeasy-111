@@ -1,12 +1,15 @@
 lockVersion: 2.0.0
 id: bbf13d57-1b5e-433a-83cd-a0d020a1b8b6
 management:
-  docChecksum: 03e3387365ae18c7ce07d32543a62956
+  docChecksum: 0a12d360ad302f1b31cf3e896bf9a61b
   docVersion: 1.0.0
   speakeasyVersion: 1.459.3
   generationVersion: 2.483.6
   releaseVersion: 0.0.2
   configChecksum: 89b40d5dcafc87e8f16f4b3a04903527
+  repoURL: https://github.com/t68061414/speakeasy-111.git
+  installationURL: https://github.com/t68061414/speakeasy-111
+
 features:
   typescript:
     additionalDependencies: 0.1.0
