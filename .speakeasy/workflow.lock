@@ -2,6 +2,7 @@ speakeasyVersion: 1.459.3
 sources:
     petstore-oas:
         sourceNamespace: petstore-oas
+
         sourceRevisionDigest: sha256:d465aff9322ab0dc100bcdf3e2aca40f72e01eaa2a20abf42c24893fde8fa765
         sourceBlobDigest: sha256:c4af72da0a5010df96179128e18081d3032fee2c90f89465b0861d8abdfbfc79
         tags:

@@ -9,6 +9,7 @@ management:
   configChecksum: 89b40d5dcafc87e8f16f4b3a04903527
   repoURL: https://github.com/t68061414/speakeasy-111.git
   installationURL: https://github.com/t68061414/speakeasy-111
+
 features:
   typescript:
     additionalDependencies: 0.1.0
