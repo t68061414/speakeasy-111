@@ -7,3 +7,13 @@ Based on:
 - Speakeasy CLI 1.459.3 (2.483.6) https://github.com/speakeasy-api/speakeasy
 ### Generated
 - [typescript v0.0.2] .
+
+## 2024-12-24 02:54:05
+### Changes
+Based on:
+- OpenAPI Doc  
+- Speakeasy CLI 1.460.2 (2.484.0) https://github.com/speakeasy-api/speakeasy
+### Generated
+- [typescript v0.0.3] .
+### Releases
+- [NPM v0.0.3] https://www.npmjs.com/package/petstore123/v/0.0.3 - .
